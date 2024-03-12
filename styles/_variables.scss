@@ -1,0 +1,32 @@
+$grid-breakpoints: (
+	xs: 0,
+	sm: 576px,
+	md: 768px,
+	lg: 992px,
+	xl: 1200px,
+	xxl: 1400px
+) !default;
+
+$products-gaps: (
+	10: 10px,
+	20: 20px,
+	30: 30px,
+	40: 40px,
+	50: 50px
+) !default;
+
+$products-per-row: (
+	1: 1,
+	2: 2,
+	3: 3,
+	4: 4,
+	5: 5,
+	6: 6
+) !default;
+
+$product-border-color: #cfd3da !default;
+$product-text-color: #212529 !default;
+$product-deal-price-color: #dc3545 !default;
+$product-muted-color: #6c757d !default;
+$product-weight-bold: 600 !default;
+$product-gallery-active-color: #1976d2 !default;
